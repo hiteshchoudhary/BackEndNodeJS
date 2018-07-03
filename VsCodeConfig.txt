@@ -1,0 +1,26 @@
+{
+    "window.zoomLevel": 0,
+    "editor.fontSize": 22,
+    "editor.wordWrap": "on",
+    "workbench.startupEditor": "newUntitledFile",
+    "sublimeTextKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "terminal.integrated.fontSize": 20,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "editor.formatOnSave": true,
+
+
+"workbench.colorCustomizations": {
+    "terminal.foreground": "#3742fa",
+    "terminal.background": "#f1f2f6",
+    
+},
+"liveServer.settings.donotShowInfoMsg": true
+}
